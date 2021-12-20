@@ -7,6 +7,7 @@ public class ejemplogit {
 		System.out.println("Hola");
 		System.out.println("H");
 		System.out.println("Hola");
+		System.out.println("Version Remota");
 	}
 
 }
